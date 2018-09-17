@@ -22,6 +22,7 @@ def add_text(u,fn):
     d = ImageDraw.Draw(words)
     # draw text, half opacity
     xx=1
+
     c=im.size[1]/40
     c=int(c)
     for i in u:
@@ -29,11 +30,13 @@ def add_text(u,fn):
             break
 
         d.text((100,xx*30 ), i, font=fnt, fill=(235, 25, 235, 228))
+
         out = Image.alpha_composite(im, words)
         xx=xx+1
     out.show()
     im=out.convert("RGB")
     im.save(fn+'.png')
+
     if os.path.exists('D:\photos\\video_image') == 0:
         os.makedirs('D:\photos\\video_image', mode=0o777)
     if os.path.exists('D:\photos\\video_image\\'+fn+'.png') == 0:
@@ -54,6 +57,7 @@ def google_vision(figure_number,num):
     if num>10:
         if int(fn)<10:
             fn='0'+fn
+            
     image_used = os.path.join(filepath, fn+'.jpg')
 
     # load the photos
@@ -81,11 +85,13 @@ def API_verify():
     return (api)
 
 def Twitter_Photos(api):
+
     #tweets = api.home_timeline()
     name = input('user screen name:')
     tweets=api.user_timeline(screen_name=name)
     for tweet in tweets:
         print(tweet.text)
+
 
     tweets = api.user_timeline(screen_name=name, count=20)
 
@@ -125,20 +131,24 @@ def Twitter_Photos(api):
             continue
         if files == 'images':
             continue
+
         if files == 'video.avi':
             continue
         if files == 'video_image':
             continue
 
+
         if num < 10:
             x = str(x)
             # os.rename(files,'0'+x+'.jpg')
+
             if os.path.exists('D:\photos\images/'+x+'.jpg') == 0:
                 print('4384797no')
                 os.rename(files, x + '.jpg')
             else :
                 os.remove('D:\photos\images\\'+x+'.jpg')
                 print("##@#@#@#@#@#yes")
+
                 os.rename(files, x + '.jpg')
             # shutil.move("D:\\photos\\"+'0'+x+'.jpg',"D:\\photos\\images")
             shutil.move("D:\\photos\\" + x + '.jpg', "D:\\photos\\images")
@@ -178,6 +188,7 @@ num=Twitter_Photos(api)
 for i in range(num):
     f=i+1
     google_vision(f,num)
+
 
 if os.path.exists('D:\photos\\video.avi') == 1:
     os.remove('D:\photos\\video.avi')
