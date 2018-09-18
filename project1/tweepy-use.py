@@ -18,14 +18,14 @@ def add_text(u,fn):
     d = ImageDraw.Draw(words)
     # draw text, half opacity
     xx=1
-    c=im.size[1]/40
+    c=im.size[1]/50
     c=int(c)
 
     for i in u:
         if(xx>c):
             break
 
-        d.text((100,xx*30 ), i, font=fnt, fill=(235, 25, 235, 228))
+        d.text((100,xx*40 ), i, font=fnt, fill=(235, 21, 200, 255))
         out = Image.alpha_composite(im, words)
         xx=xx+1
 
