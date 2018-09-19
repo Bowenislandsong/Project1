@@ -72,7 +72,7 @@ def API_verify():
 
 def Twitter_Photos(api):
     #tweets = api.home_timeline()
-    name = input('please user screen name:')
+    name = input('please input user screen name:')
     tweets=api.user_timeline(screen_name=name)
 
 
@@ -117,6 +117,10 @@ def Twitter_Photos(api):
         if files == 'video_image':
             continue
         if files == 'outcome.mp4':
+            continue
+        if files == 'project1':
+            continue
+        if files == 'README.md':
             continue
 
         if num < 10:
