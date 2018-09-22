@@ -5,7 +5,6 @@ This is a project for EC601. Well, actually this is my first project I have made
 Instructions: 
 
 'Tweepy-use.py' and font library 'arial.ttf' should be downloaded to a folder.
-
  Put your google json into current folder you downloaded and rename it as 'google.json'.(see .png file)
  
  
