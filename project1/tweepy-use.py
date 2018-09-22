@@ -89,7 +89,6 @@ def API_verify():
     return (api)
 
 def Twitter_Photos(api):
-
 # input screen name and number
     name = input('please input user screen name:')
     tn=input('please input how many tweets you want to scan?(20-50):')
@@ -181,8 +180,6 @@ def Twitter_Photos(api):
 
 
 
-
-
     # mian function
 api=API_verify()
 
@@ -214,7 +211,6 @@ try:
 
     else:
         os.system("ffmpeg -y -r 1 -i video_image\%02d.jpg -vcodec libx264 -r 1 -t 15 -b 200k outcome.mp4")
-
     if os.path.exists('outcome.mp4') == 0:
         print('there is no video made, maybe we can not found photo or something else problem happened')
         exit()
@@ -222,5 +218,3 @@ try:
         print('you can find the result from current folder \(^-^)/ ')
 except:
     print('Maybe...this account enough photos or google credential problem.')
-
-
