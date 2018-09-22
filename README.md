@@ -5,22 +5,23 @@ This is a project for EC601. Well, actually this is my first project I have made
 # Instruction
 
 'Tweepy-use.py' and font library 'arial.ttf' should be downloaded to a folder.
- Put your google json into current folder you downloaded and rename it as 'google.json'.(see .png file)
- 
- 
- 
- 
 
-Execute 'Tweepy-use.py' and input the screen name (whose twitter account you want to download images from). 
+ Put your google json into current folder you downloaded and rename it as 'google.json'.(see .png file) and input your Twitter     credential keys(in the tweepy-use.py line14-17).
+ 
+ Finally use Terminal in the folder and use 'python tweepy-use.py' to execute the program.
+ 
+ 
+ 
+ # Output
 
-Then the program would create two folders 'images' and 'video_image'(They are used to store the download images and the images are processed by Google Vision API. ). 
+The program would create two folders 'images' and 'video_image'(They are used to store the download images and the images are processed by Google Vision API. ). 
 
 And you can also find a outcome.mp4 which could only be correctly displayed by Windows Media Player, other players may cause a frame lost. 'Tweet.txt' contains all the information about each tweets of the chosen account.
 
 
 
-
-Example: The folder 'project1' contains a example of the program, I download those images from a guy whose name is 'Trump'.
+ # Example
+The folder 'project1' contains a example of the program, I download those images from a guy whose name is 'Trump'.
 
 Besides, this program is designed for Windows.
 
