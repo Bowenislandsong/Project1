@@ -1,3 +1,4 @@
+#author:Hao Li
 import  tweepy
 import  json
 import  wget
@@ -7,6 +8,15 @@ import io
 from google.cloud import vision
 from google.cloud.vision import types
 from PIL import Image, ImageDraw, ImageFont
+
+####################################################################################
+#input twitter_credential imformation
+consumer_key = 'mw5qwkQaBjvw99F2pNF9R3Ht8'
+consumer_secret = '9ESeJIDYx3BXS15yYEbxtOqakFVxGJdoEWQ2Xg5h4d2eIcTnqy'
+access_token = '1038768523366019074-0jW1slz19e304mGsTTMNSqjx0NM2s7'
+access_token_secret = 'hlmCDhNAeNbx8zv1dUXUnamqhB1XI1Svd4xFGqjy83U0j'
+####################################################################################
+
 
 
 def add_text(u,fn):
@@ -70,52 +80,62 @@ def google_vision(figure_number,num):
     add_text(u, fn)
 
 def API_verify():
-    consumer_key = 'mw5qwkQaBjvw99F2pNF9R3Ht8'
-    consumer_secret = '9ESeJIDYx3BXS15yYEbxtOqakFVxGJdoEWQ2Xg5h4d2eIcTnqy'
-    access_token = '1038768523366019074-0jW1slz19e304mGsTTMNSqjx0NM2s7'
-    access_token_secret = 'hlmCDhNAeNbx8zv1dUXUnamqhB1XI1Svd4xFGqjy83U0j'
-
+# verify credential keys
+    if consumer_key == '' or consumer_secret == '' or access_token == '' or access_token_secret =='':
+        exit('please input your Twitter credential keys')
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth)
     return (api)
 
 def Twitter_Photos(api):
-
+# input screen name and number
     name = input('please input user screen name:')
+    tn=input('please input how many tweets you want to scan?(20-50):')
+    tn=int(tn)
+    if tn>50:
+        print('the scan number:50(fixed)')
+        tn=50
+    elif tn<20:
+        tn=20
+        print('the scan number:20(fixed)')
+    else:
+        print('the scan number is:',tn)
 
 
+# begain to scan
     try:
-        tweets = api.user_timeline(screen_name=name)
-        tweets = api.user_timeline(screen_name=name, count=40)
+        tweets = api.user_timeline(screen_name=name, count=tn)
 
         url = []
         for items in tweets:
 
             if items.entities.__contains__('media') == 0:
                 continue
-
+# make sure the media is photo
             media_class = items.extended_entities.get('media')
             for sth in media_class:
                 if sth['type'] != 'photo':
                     continue
-
+                if len(url)>=99:
+                    break
                 url.append(sth['media_url'])
 
+        num = len(url)
         for i in url:
-
             photos = wget.download(i)
             file = open('tweet.txt', 'w')
             for status in tweets:
                 json.dump(status._json, file, sort_keys=True, indent=4)
             file.close()
         x = 1
-        num = len(url)
 
+# put photos into folder image
         if os.path.exists('images') == 0:
             os.makedirs('images', mode=0o777)
         for files in os.listdir():
             search = list(files)
+            # select photos
             if search[-1] == 'g' and search[-2] == 'p' and search[-3] == 'j':
                 if num < 10:
                     x = str(x)
@@ -154,14 +174,16 @@ def Twitter_Photos(api):
 
     except:
         print('seems nobody has this name.... or something unknown happened')
+        exit()
 
 
 
 
-# mian function
+
+    # mian function
 api=API_verify()
 
-
+#remake folders to delete photos downloaded before
 if os.path.exists('video_image') == 1:
     shutil.rmtree('video_image')
 
@@ -189,6 +211,10 @@ try:
 
     else:
         os.system("ffmpeg -y -r 1 -i video_image\%02d.jpg -vcodec libx264 -r 1 -t 15 -b 200k outcome.mp4")
-    print('you can find the result from current folder \(^-^)/ ')
+    if os.path.exists('outcome.mp4') == 0:
+        print('there is no video made, maybe we can not found photo or something else problem happened')
+        exit()
+    else:
+        print('you can find the result from current folder \(^-^)/ ')
 except:
-    print('Maybe...this account have too much photos or google credential problem.')
+    print('Maybe...this account enough photos or google credential problem.')
