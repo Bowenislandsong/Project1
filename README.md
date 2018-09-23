@@ -11,6 +11,8 @@ This is a project for EC601. Well, actually this is my first project I have made
  Finally use Terminal in the folder and use 'python tweepy-use.py' to execute the program.
  
  
+ Please use 'Windows Media Player' to open the video(other players may cause a frame lost).
+ 
  
  # Output
 
