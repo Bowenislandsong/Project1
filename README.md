@@ -6,7 +6,7 @@ This is a project for EC601. Well, actually this is my first project I have made
 
 'Tweepy-use.py' and font library 'arial.ttf' should be downloaded to a folder.
 
- Put your google json into current folder you downloaded and rename it as 'google.json'.(see .png file) and input your Twitter     credential keys(in the tweepy-use.py line14-17).
+ Put your google credential json into current folder you downloaded and rename it as 'google.json'.(see .png file) and input your Twitter     credential keys('userkeys.py').
  
  Finally use Terminal in the folder and use 'python tweepy-use.py' to execute the program.
  
