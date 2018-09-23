@@ -8,15 +8,7 @@ import io
 from google.cloud import vision
 from google.cloud.vision import types
 from PIL import Image, ImageDraw, ImageFont
-
-####################################################################################
-#input twitter_credential imformation
-consumer_key = ''
-consumer_secret = ''
-access_token = ''
-access_token_secret = ''
-####################################################################################
-
+from userkey import *
 
 
 def add_text(u,fn):
@@ -207,10 +199,10 @@ try:
         os.remove('outcome.mp4')
 
     if num < 10:
-        os.system("ffmpeg -y -r 1 -i video_image\%01d.jpg  -vcodec libx264 -r 1 -t 15 -b 200k outcome.mp4")
+        os.system("ffmpeg -f image2 -framerate 0.5 -y -i video_image\%01d.jpg  -c:v libx264 -pix_fmt yuv420p outcome.mp4")
 
     else:
-        os.system("ffmpeg -y -r 1 -i video_image\%02d.jpg -vcodec libx264 -r 1 -t 15 -b 200k outcome.mp4")
+        os.system("ffmpeg -f image2 -framerate 0.5 -y -i video_image\%02d.jpg  -c:v libx264 -pix_fmt yuv420p outcome.mp4")
     if os.path.exists('outcome.mp4') == 0:
         print('there is no video made, maybe we can not found photo or something else problem happened')
         exit()
