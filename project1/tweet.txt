@@ -18,7 +18,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 84,
+    "favorite_count": 88,
     "favorited": false,
     "geo": null,
     "id": 1042882096795136001,
@@ -32,7 +32,7 @@
     "lang": "en",
     "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 20,
+    "retweet_count": 21,
     "retweeted": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "text": "The countdown to FALL is on! \n\n2 days until Autumn\n41 days until Halloween \n63 days until Thanksgiving\u2026 https://t.co/UFjwyW3JNo",
@@ -63,7 +63,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -73,7 +73,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -129,7 +129,7 @@
             }
         ]
     },
-    "favorite_count": 88,
+    "favorite_count": 91,
     "favorited": false,
     "geo": null,
     "id": 1042514257831768064,
@@ -143,7 +143,7 @@
     "lang": "en",
     "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 12,
+    "retweet_count": 13,
     "retweeted": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "text": "What @TrumpHotels Are Up to This Fall https://t.co/Qidv0m0FCe",
@@ -174,7 +174,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -184,7 +184,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -248,7 +248,7 @@
             }
         ]
     },
-    "favorite_count": 124,
+    "favorite_count": 126,
     "favorited": false,
     "geo": null,
     "id": 1040666124919156736,
@@ -293,7 +293,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -303,7 +303,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -384,7 +384,7 @@
             ],
             "user_mentions": []
         },
-        "favorite_count": 726,
+        "favorite_count": 730,
         "favorited": false,
         "geo": null,
         "id": 1039236158734168064,
@@ -422,8 +422,8 @@
                 "type": "Polygon"
             },
             "contained_within": [],
-            "country": "United States",
-            "country_code": "US",
+            "country": "",
+            "country_code": "",
             "full_name": "Trump Golf Links at Ferry Point",
             "id": "081fe904d3543000",
             "name": "Trump Golf Links at Ferry Point",
@@ -462,7 +462,7 @@
             },
             "favourites_count": 1085,
             "follow_request_sent": false,
-            "followers_count": 24790,
+            "followers_count": 24792,
             "following": false,
             "friends_count": 520,
             "geo_enabled": true,
@@ -472,7 +472,7 @@
             "is_translation_enabled": false,
             "is_translator": false,
             "lang": "en",
-            "listed_count": 77,
+            "listed_count": 78,
             "location": "New York, NY",
             "name": "Trump Ferry Point",
             "notifications": false,
@@ -527,7 +527,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -537,7 +537,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -593,7 +593,7 @@
             }
         ]
     },
-    "favorite_count": 130,
+    "favorite_count": 132,
     "favorited": false,
     "geo": null,
     "id": 1038090862830542850,
@@ -638,7 +638,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -648,7 +648,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -772,7 +772,7 @@
             }
         ]
     },
-    "favorite_count": 129,
+    "favorite_count": 131,
     "favorited": false,
     "geo": null,
     "id": 1037820456462639104,
@@ -817,7 +817,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -827,7 +827,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -872,7 +872,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 124,
+    "favorite_count": 126,
     "favorited": false,
     "geo": null,
     "id": 1037425923577053185,
@@ -917,7 +917,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -927,7 +927,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1005,7 +1005,7 @@
     "lang": "en",
     "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 68,
+    "retweet_count": 66,
     "retweeted": false,
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "text": "Did you know @TrumpTower is home to 3 distinct dining facilities: the renowned #TrumpGrill, iconic lunch destinatio\u2026 https://t.co/xMCgg1i3lT",
@@ -1036,7 +1036,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1046,7 +1046,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1167,7 +1167,7 @@
             }
         ]
     },
-    "favorite_count": 336,
+    "favorite_count": 339,
     "favorited": false,
     "geo": null,
     "id": 1036637317124030464,
@@ -1212,7 +1212,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1222,7 +1222,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1278,7 +1278,7 @@
             }
         ]
     },
-    "favorite_count": 235,
+    "favorite_count": 238,
     "favorited": false,
     "geo": null,
     "id": 1036295127797571584,
@@ -1323,7 +1323,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1333,7 +1333,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1475,7 +1475,7 @@
             }
         ]
     },
-    "favorite_count": 100,
+    "favorite_count": 102,
     "favorited": false,
     "geo": null,
     "id": 1034803038454775808,
@@ -1520,7 +1520,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1530,7 +1530,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1583,7 +1583,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 2463,
+    "favorite_count": 2468,
     "favorited": false,
     "geo": null,
     "id": 1030529150753427457,
@@ -1597,7 +1597,7 @@
     "lang": "en",
     "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 709,
+    "retweet_count": 708,
     "retweeted": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "text": "We are thrilled to once again participate in #OperationBackpack, a school supplies drive to benefit children living\u2026 https://t.co/tiCPYSmoXe",
@@ -1628,7 +1628,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1638,7 +1638,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1694,7 +1694,7 @@
             }
         ]
     },
-    "favorite_count": 195,
+    "favorite_count": 197,
     "favorited": false,
     "geo": null,
     "id": 1029031748498284544,
@@ -1739,7 +1739,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1749,7 +1749,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1813,7 +1813,7 @@
             }
         ]
     },
-    "favorite_count": 1426,
+    "favorite_count": 1430,
     "favorited": false,
     "geo": null,
     "id": 1026901865286512640,
@@ -1858,7 +1858,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1868,7 +1868,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -1924,7 +1924,7 @@
             }
         ]
     },
-    "favorite_count": 237,
+    "favorite_count": 238,
     "favorited": false,
     "geo": null,
     "id": 1025489233547599872,
@@ -1969,7 +1969,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -1979,7 +1979,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2147,7 +2147,7 @@
             }
         ]
     },
-    "favorite_count": 1246,
+    "favorite_count": 1248,
     "favorited": false,
     "geo": null,
     "id": 1024014376758472705,
@@ -2192,7 +2192,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2202,7 +2202,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2255,7 +2255,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 163,
+    "favorite_count": 165,
     "favorited": false,
     "geo": null,
     "id": 1022573438928609280,
@@ -2300,7 +2300,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2310,7 +2310,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2363,7 +2363,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 926,
+    "favorite_count": 927,
     "favorited": false,
     "geo": null,
     "id": 1022147210841075713,
@@ -2408,7 +2408,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2418,7 +2418,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2519,7 +2519,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2529,7 +2529,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2593,7 +2593,7 @@
             }
         ]
     },
-    "favorite_count": 159,
+    "favorite_count": 160,
     "favorited": false,
     "geo": null,
     "id": 1020033771112935426,
@@ -2638,7 +2638,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2648,7 +2648,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2817,7 +2817,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2827,7 +2827,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -2928,7 +2928,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -2938,7 +2938,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3080,7 +3080,7 @@
             }
         ]
     },
-    "favorite_count": 264,
+    "favorite_count": 265,
     "favorited": false,
     "geo": null,
     "id": 1016710607213494274,
@@ -3125,7 +3125,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -3135,7 +3135,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3188,7 +3188,7 @@
         ],
         "user_mentions": []
     },
-    "favorite_count": 78,
+    "favorite_count": 79,
     "favorited": false,
     "geo": null,
     "id": 1016388975760732160,
@@ -3233,7 +3233,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -3243,7 +3243,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3483,7 +3483,7 @@
             }
         ]
     },
-    "favorite_count": 169,
+    "favorite_count": 170,
     "favorited": false,
     "geo": null,
     "id": 1014971157265739776,
@@ -3528,7 +3528,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -3538,7 +3538,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3677,7 +3677,7 @@
             }
         ]
     },
-    "favorite_count": 2317,
+    "favorite_count": 2318,
     "favorited": false,
     "geo": null,
     "id": 1014524070615048193,
@@ -3691,7 +3691,7 @@
     "lang": "en",
     "place": null,
     "possibly_sensitive": false,
-    "retweet_count": 389,
+    "retweet_count": 390,
     "retweeted": false,
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "text": "Wishing everyone a safe and happy #FourthofJuly from our family to yours \ud83c\uddfa\ud83c\uddf8 @TrumpGolf #IndependenceDay https://t.co/U0Da9pGMYK",
@@ -3722,7 +3722,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -3732,7 +3732,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3866,7 +3866,7 @@
             }
         ]
     },
-    "favorite_count": 111,
+    "favorite_count": 113,
     "favorited": false,
     "geo": null,
     "id": 1014188556569534464,
@@ -3911,7 +3911,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -3921,7 +3921,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -3987,7 +3987,7 @@
             }
         ]
     },
-    "favorite_count": 417,
+    "favorite_count": 418,
     "favorited": false,
     "geo": null,
     "id": 1013833965755686913,
@@ -4032,7 +4032,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -4042,7 +4042,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -4098,7 +4098,7 @@
             }
         ]
     },
-    "favorite_count": 164,
+    "favorite_count": 166,
     "favorited": false,
     "geo": null,
     "id": 1012768820589711360,
@@ -4143,7 +4143,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -4153,7 +4153,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
@@ -4212,7 +4212,7 @@
     "is_quote_status": false,
     "lang": "en",
     "place": null,
-    "retweet_count": 790,
+    "retweet_count": 789,
     "retweeted": false,
     "retweeted_status": {
         "contributors": null,
@@ -4281,7 +4281,7 @@
             "url": "https://api.twitter.com/1.1/geo/id/07d9d21652888001.json"
         },
         "possibly_sensitive": false,
-        "retweet_count": 790,
+        "retweet_count": 789,
         "retweeted": false,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The way a company keeps their \u201cBack of House\u201d space is a huge reflection on who they are and the pride they take. T\u2026 https://t.co/qwqb8q0fer",
@@ -4310,9 +4310,9 @@
                     ]
                 }
             },
-            "favourites_count": 8544,
+            "favourites_count": 8543,
             "follow_request_sent": false,
-            "followers_count": 2154897,
+            "followers_count": 2156369,
             "following": false,
             "friends_count": 706,
             "geo_enabled": true,
@@ -4322,7 +4322,7 @@
             "is_translation_enabled": false,
             "is_translator": false,
             "lang": "en",
-            "listed_count": 5699,
+            "listed_count": 5719,
             "location": "",
             "name": "Eric Trump",
             "notifications": false,
@@ -4377,7 +4377,7 @@
         },
         "favourites_count": 5185,
         "follow_request_sent": false,
-        "followers_count": 330928,
+        "followers_count": 331055,
         "following": false,
         "friends_count": 49,
         "geo_enabled": true,
@@ -4387,2460 +4387,7 @@
         "is_translation_enabled": false,
         "is_translator": false,
         "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Thu Jun 28 21:05:21 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "media": [
-            {
-                "display_url": "pic.twitter.com/sixsxaKffy",
-                "expanded_url": "https://twitter.com/Trump/status/1012441846885306369/photo/1",
-                "id": 1012439740614955011,
-                "id_str": "1012439740614955011",
-                "indices": [
-                    85,
-                    108
-                ],
-                "media_url": "http://pbs.twimg.com/media/DgzolHfX0AM1ndB.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DgzolHfX0AM1ndB.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "medium": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "small": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/sixsxaKffy"
-            }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-            {
-                "id": 48223726,
-                "id_str": "48223726",
-                "indices": [
-                    32,
-                    45
-                ],
-                "name": "Trump Hotel Chicago",
-                "screen_name": "TrumpChicago"
-            },
-            {
-                "id": 67119128,
-                "id_str": "67119128",
-                "indices": [
-                    59,
-                    71
-                ],
-                "name": "Trump Hotels",
-                "screen_name": "TrumpHotels"
-            },
-            {
-                "id": 2174527993,
-                "id_str": "2174527993",
-                "indices": [
-                    72,
-                    84
-                ],
-                "name": "Trump Realty",
-                "screen_name": "TrumpRealty"
-            }
-        ]
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "display_url": "pic.twitter.com/sixsxaKffy",
-                "expanded_url": "https://twitter.com/Trump/status/1012441846885306369/photo/1",
-                "id": 1012439740614955011,
-                "id_str": "1012439740614955011",
-                "indices": [
-                    85,
-                    108
-                ],
-                "media_url": "http://pbs.twimg.com/media/DgzolHfX0AM1ndB.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DgzolHfX0AM1ndB.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "medium": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "small": {
-                        "h": 504,
-                        "resize": "fit",
-                        "w": 360
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/sixsxaKffy"
-            }
-        ]
-    },
-    "favorite_count": 149,
-    "favorited": false,
-    "geo": null,
-    "id": 1012441846885306369,
-    "id_str": "1012441846885306369",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 28,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Aerial image of construction on @TrumpChicago in May 2008! @TrumpHotels @TrumpRealty https://t.co/sixsxaKffy",
-    "truncated": false,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Jun 26 18:00:31 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1011670557719449601",
-                "indices": [
-                    115,
-                    138
-                ],
-                "url": "https://t.co/4o2b4RXTZh"
-            }
-        ],
-        "user_mentions": []
-    },
-    "favorite_count": 190,
-    "favorited": false,
-    "geo": null,
-    "id": 1011670557719449601,
-    "id_str": "1011670557719449601",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 45,
-    "retweeted": false,
-    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
-    "text": "10 Months. 20,000 Sq Ft. 1 Brand New Clubhouse. Thank you to everyone that attended the official unveiling of the\u2026 https://t.co/4o2b4RXTZh",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Jun 26 14:24:19 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    27,
-                    40
-                ],
-                "text": "40WallStreet"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1011616150013259776",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/qNuelxZVQP"
-            }
-        ],
-        "user_mentions": []
-    },
-    "favorite_count": 1627,
-    "favorited": false,
-    "geo": null,
-    "id": 1011616150013259776,
-    "id_str": "1011616150013259776",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 419,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Did you know the vaults of #40WallStreet, once the largest in the world, were responsible for safeguarding enormous\u2026 https://t.co/qNuelxZVQP",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Thu Jun 21 17:11:42 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    16,
-                    33
-                ],
-                "text": "FirstDayOfSummer"
-            },
-            {
-                "indices": [
-                    69,
-                    84
-                ],
-                "text": "SummerSolstice"
-            }
-        ],
-        "media": [
-            {
-                "display_url": "pic.twitter.com/OiaWARHscW",
-                "expanded_url": "https://twitter.com/Trump/status/1009846332717260800/photo/1",
-                "id": 1009845826439598081,
-                "id_str": "1009845826439598081",
-                "indices": [
-                    85,
-                    108
-                ],
-                "media_url": "http://pbs.twimg.com/media/DgOxbcLX0AE7gBn.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DgOxbcLX0AE7gBn.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 1236,
-                        "resize": "fit",
-                        "w": 1723
-                    },
-                    "medium": {
-                        "h": 861,
-                        "resize": "fit",
-                        "w": 1200
-                    },
-                    "small": {
-                        "h": 488,
-                        "resize": "fit",
-                        "w": 680
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/OiaWARHscW"
-            }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "display_url": "pic.twitter.com/OiaWARHscW",
-                "expanded_url": "https://twitter.com/Trump/status/1009846332717260800/photo/1",
-                "id": 1009845826439598081,
-                "id_str": "1009845826439598081",
-                "indices": [
-                    85,
-                    108
-                ],
-                "media_url": "http://pbs.twimg.com/media/DgOxbcLX0AE7gBn.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/DgOxbcLX0AE7gBn.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 1236,
-                        "resize": "fit",
-                        "w": 1723
-                    },
-                    "medium": {
-                        "h": 861,
-                        "resize": "fit",
-                        "w": 1200
-                    },
-                    "small": {
-                        "h": 488,
-                        "resize": "fit",
-                        "w": 680
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/OiaWARHscW"
-            }
-        ]
-    },
-    "favorite_count": 2374,
-    "favorited": false,
-    "geo": null,
-    "id": 1009846332717260800,
-    "id_str": "1009846332717260800",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 412,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Flying into the #FirstDayOfSummer and the longest day of the year \u2600\ufe0f #SummerSolstice https://t.co/OiaWARHscW",
-    "truncated": false,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Wed Jun 20 19:58:19 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1009525877703667712",
-                "indices": [
-                    108,
-                    131
-                ],
-                "url": "https://t.co/sPXCrxg0oy"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 3300701782,
-                "id_str": "3300701782",
-                "indices": [
-                    62,
-                    78
-                ],
-                "name": "Trump Bedminster",
-                "screen_name": "TrumpBedminster"
-            }
-        ]
-    },
-    "favorite_count": 125,
-    "favorited": false,
-    "geo": null,
-    "id": 1009525877703667712,
-    "id_str": "1009525877703667712",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 25,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "What is your favorite time of day to golf? A sunrise round at @TrumpBedminster holds one of our top spots!\u2026 https://t.co/sPXCrxg0oy",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Wed Jun 20 15:52:46 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    19,
-                    36
-                ],
-                "text": "TrumpTowerManila"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1009464081718435840",
-                "indices": [
-                    108,
-                    131
-                ],
-                "url": "https://t.co/bcLgEogW0k"
-            }
-        ],
-        "user_mentions": []
-    },
-    "favorite_count": 787,
-    "favorited": false,
-    "geo": null,
-    "id": 1009464081718435840,
-    "id_str": "1009464081718435840",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 96,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Congratulations to #TrumpTowerManila on winning the 2018 Best Luxury Condo Development in the Philippines!\u2026 https://t.co/bcLgEogW0k",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Jun 19 20:25:52 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1009170420103307265",
-                "indices": [
-                    116,
-                    139
-                ],
-                "url": "https://t.co/eooBAltQeL"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 2174527993,
-                "id_str": "2174527993",
-                "indices": [
-                    35,
-                    47
-                ],
-                "name": "Trump Realty",
-                "screen_name": "TrumpRealty"
-            }
-        ]
-    },
-    "favorite_count": 126,
-    "favorited": false,
-    "geo": null,
-    "id": 1009170420103307265,
-    "id_str": "1009170420103307265",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 31,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Discover the latest edition of our @TrumpRealty Luxury Listing Book featuring an exclusive portfolio of prime real\u2026 https://t.co/eooBAltQeL",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Jun 19 19:40:51 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1009159090768052225",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/2hUpe0STvm"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 67119128,
-                "id_str": "67119128",
-                "indices": [
-                    46,
-                    58
-                ],
-                "name": "Trump Hotels",
-                "screen_name": "TrumpHotels"
-            }
-        ]
-    },
-    "favorite_count": 152,
-    "favorited": false,
-    "geo": null,
-    "id": 1009159090768052225,
-    "id_str": "1009159090768052225",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 32,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Master the art of relaxation this summer with @TrumpHotels \u2600\ufe0f Our exclusive rates and incentive travel packages are\u2026 https://t.co/2hUpe0STvm",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Sun Jun 17 20:46:11 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    21,
-                    32
-                ],
-                "text": "FathersDay"
-            }
-        ],
-        "media": [
-            {
-                "display_url": "pic.twitter.com/gETLJJjc2J",
-                "expanded_url": "https://twitter.com/Trump/status/1008450757572677635/photo/1",
-                "id": 1008450699477147648,
-                "id_str": "1008450699477147648",
-                "indices": [
-                    75,
-                    98
-                ],
-                "media_url": "http://pbs.twimg.com/media/Df68kXPUYAA9PCJ.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/Df68kXPUYAA9PCJ.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 1018,
-                        "resize": "fit",
-                        "w": 1024
-                    },
-                    "medium": {
-                        "h": 1018,
-                        "resize": "fit",
-                        "w": 1024
-                    },
-                    "small": {
-                        "h": 676,
-                        "resize": "fit",
-                        "w": 680
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/gETLJJjc2J"
-            }
-        ],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": []
-    },
-    "extended_entities": {
-        "media": [
-            {
-                "display_url": "pic.twitter.com/gETLJJjc2J",
-                "expanded_url": "https://twitter.com/Trump/status/1008450757572677635/photo/1",
-                "id": 1008450699477147648,
-                "id_str": "1008450699477147648",
-                "indices": [
-                    75,
-                    98
-                ],
-                "media_url": "http://pbs.twimg.com/media/Df68kXPUYAA9PCJ.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/Df68kXPUYAA9PCJ.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 1018,
-                        "resize": "fit",
-                        "w": 1024
-                    },
-                    "medium": {
-                        "h": 1018,
-                        "resize": "fit",
-                        "w": 1024
-                    },
-                    "small": {
-                        "h": 676,
-                        "resize": "fit",
-                        "w": 680
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/gETLJJjc2J"
-            },
-            {
-                "display_url": "pic.twitter.com/gETLJJjc2J",
-                "expanded_url": "https://twitter.com/Trump/status/1008450757572677635/photo/1",
-                "id": 1008450699493904384,
-                "id_str": "1008450699493904384",
-                "indices": [
-                    75,
-                    98
-                ],
-                "media_url": "http://pbs.twimg.com/media/Df68kXTUEAAKDLb.jpg",
-                "media_url_https": "https://pbs.twimg.com/media/Df68kXTUEAAKDLb.jpg",
-                "sizes": {
-                    "large": {
-                        "h": 1004,
-                        "resize": "fit",
-                        "w": 1004
-                    },
-                    "medium": {
-                        "h": 1004,
-                        "resize": "fit",
-                        "w": 1004
-                    },
-                    "small": {
-                        "h": 680,
-                        "resize": "fit",
-                        "w": 680
-                    },
-                    "thumb": {
-                        "h": 150,
-                        "resize": "crop",
-                        "w": 150
-                    }
-                },
-                "type": "photo",
-                "url": "https://t.co/gETLJJjc2J"
-            }
-        ]
-    },
-    "favorite_count": 2454,
-    "favorited": false,
-    "geo": null,
-    "id": 1008450757572677635,
-    "id_str": "1008450757572677635",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 216,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "Wishing a very happy #FathersDay\u2060 to all of the incredible dads out there! https://t.co/gETLJJjc2J",
-    "truncated": false,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Thu Jun 14 16:06:32 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1007293220068450304",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/PqUwUPlAqK"
-            }
-        ],
-        "user_mentions": []
-    },
-    "favorite_count": 1906,
-    "favorited": false,
-    "geo": null,
-    "id": 1007293220068450304,
-    "id_str": "1007293220068450304",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 451,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "241 years ago, the Stars and Stripes design for the national flag was approved by Congress! We are proud to display\u2026 https://t.co/PqUwUPlAqK",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Mon Jun 11 21:51:45 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    14,
-                    34
-                ],
-                "text": "FerryPointFirstLook"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1006292931051950081",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/1kpZ1L6YF5"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 39349894,
-                "id_str": "39349894",
-                "indices": [
-                    61,
-                    71
-                ],
-                "name": "Eric Trump",
-                "screen_name": "EricTrump"
-            }
-        ]
-    },
-    "favorite_count": 244,
-    "favorited": false,
-    "geo": null,
-    "id": 1006292931051950081,
-    "id_str": "1006292931051950081",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 43,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "Following the #FerryPointFirstLook Clubhouse ribbon cutting, @EricTrump and guests headed out to the course for a r\u2026 https://t.co/1kpZ1L6YF5",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Mon Jun 11 18:09:38 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1006237033696776192",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/MITJaSBYkU"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 2813604714,
-                "id_str": "2813604714",
-                "indices": [
-                    77,
-                    93
-                ],
-                "name": "Trump Ferry Point",
-                "screen_name": "TrumpFerryPoint"
-            }
-        ]
-    },
-    "favorite_count": 318,
-    "favorited": false,
-    "geo": null,
-    "id": 1006237033696776192,
-    "id_str": "1006237033696776192",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 72,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "The ribbon has been cut \u2702\ufe0f We are proud to unveil our brand new clubhouse at @TrumpFerryPoint! The expansive 20,000\u2026 https://t.co/MITJaSBYkU",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Thu Jun 07 19:24:49 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    15,
-                    24
-                ],
-                "text": "TrumpBar"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1004806403377254400",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/pbnHss6sFd"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 835721828,
-                "id_str": "835721828",
-                "indices": [
-                    28,
-                    39
-                ],
-                "name": "Trump Tower New York",
-                "screen_name": "TrumpTower"
-            }
-        ]
-    },
-    "favorite_count": 218,
-    "favorited": false,
-    "geo": null,
-    "id": 1004806403377254400,
-    "id_str": "1004806403377254400",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 55,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Views from the #TrumpBar at @TrumpTower overlooking our 5-story atrium, 60-foot high waterfall, shops, cafes and tw\u2026 https://t.co/pbnHss6sFd",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Tue Jun 05 21:03:01 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    6,
-                    20
-                ],
-                "text": "WomensGolfDay"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1004106340279648256",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/Fa0T2WAsnW"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 2325495378,
-                "id_str": "2325495378",
-                "indices": [
-                    62,
-                    72
-                ],
-                "name": "Trump Golf",
-                "screen_name": "TrumpGolf"
-            }
-        ]
-    },
-    "favorite_count": 152,
-    "favorited": false,
-    "geo": null,
-    "id": 1004106340279648256,
-    "id_str": "1004106340279648256",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 29,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "text": "Happy #WomensGolfDay \ud83c\udfcc\ufe0f\u200d\u2640\ufe0f We are proud to host events at our @TrumpGolf courses worldwide today to celebrate girls\u2026 https://t.co/Fa0T2WAsnW",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Mon Jun 04 15:57:56 +0000 2018",
-    "entities": {
-        "hashtags": [
-            {
-                "indices": [
-                    88,
-                    97
-                ],
-                "text": "BabyLuke"
-            }
-        ],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1003667176597999617",
-                "indices": [
-                    116,
-                    139
-                ],
-                "url": "https://t.co/VFES1Jp35H"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 39349894,
-                "id_str": "39349894",
-                "indices": [
-                    25,
-                    35
-                ],
-                "name": "Eric Trump",
-                "screen_name": "EricTrump"
-            },
-            {
-                "id": 75541946,
-                "id_str": "75541946",
-                "indices": [
-                    42,
-                    55
-                ],
-                "name": "Lara Trump",
-                "screen_name": "LaraLeaTrump"
-            }
-        ]
-    },
-    "favorite_count": 234,
-    "favorited": false,
-    "geo": null,
-    "id": 1003667176597999617,
-    "id_str": "1003667176597999617",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 43,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "Take an inside look into @EricTrump &amp; @LaraLeaTrump's life outside of the city with #BabyLuke, Charlie and Ben\u2026 https://t.co/VFES1Jp35H",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Sun Jun 03 13:36:48 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [
-            {
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "expanded_url": "https://twitter.com/i/web/status/1003269269239554048",
-                "indices": [
-                    117,
-                    140
-                ],
-                "url": "https://t.co/jVSdCwN0Hp"
-            }
-        ],
-        "user_mentions": [
-            {
-                "id": 3300701782,
-                "id_str": "3300701782",
-                "indices": [
-                    49,
-                    65
-                ],
-                "name": "Trump Bedminster",
-                "screen_name": "TrumpBedminster"
-            }
-        ]
-    },
-    "favorite_count": 183,
-    "favorited": false,
-    "geo": null,
-    "id": 1003269269239554048,
-    "id_str": "1003269269239554048",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "possibly_sensitive": false,
-    "retweet_count": 37,
-    "retweeted": false,
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "We take our Sunday indulgences very seriously at @TrumpBedminster \ud83c\udf6a Baked to perfection in your own personal skille\u2026 https://t.co/jVSdCwN0Hp",
-    "truncated": true,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Fri Jun 01 16:06:07 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-            {
-                "id": 67119128,
-                "id_str": "67119128",
-                "indices": [
-                    3,
-                    15
-                ],
-                "name": "Trump Hotels",
-                "screen_name": "TrumpHotels"
-            }
-        ]
-    },
-    "favorite_count": 0,
-    "favorited": false,
-    "geo": null,
-    "id": 1002582073096323072,
-    "id_str": "1002582073096323072",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "retweet_count": 70,
-    "retweeted": false,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Jun 01 15:55:00 +0000 2018",
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/i/web/status/1\u2026",
-                    "expanded_url": "https://twitter.com/i/web/status/1002579274887565313",
-                    "indices": [
-                        110,
-                        133
-                    ],
-                    "url": "https://t.co/f0dGSnTiOq"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 258,
-        "favorited": false,
-        "geo": null,
-        "id": 1002579274887565313,
-        "id_str": "1002579274887565313",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 70,
-        "retweeted": false,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "text": "Shoutout to Tyler, known as \u201cThe Donut Boy\u201d for his commitment to thank Police Officers across America! This\u2026 https://t.co/f0dGSnTiOq",
-        "truncated": true,
-        "user": {
-            "contributors_enabled": false,
-            "created_at": "Wed Aug 19 20:55:39 +0000 2009",
-            "default_profile": false,
-            "default_profile_image": false,
-            "description": "Iconic architecture, unrivaled views, bold design, entrepreneurial spirit and uncompromising attention to detail. #NeverSettle",
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "TrumpHotels.com",
-                            "expanded_url": "http://www.TrumpHotels.com",
-                            "indices": [
-                                0,
-                                23
-                            ],
-                            "url": "https://t.co/XDI7d6aJMw"
-                        }
-                    ]
-                }
-            },
-            "favourites_count": 5193,
-            "follow_request_sent": false,
-            "followers_count": 59545,
-            "following": false,
-            "friends_count": 3766,
-            "geo_enabled": true,
-            "has_extended_profile": false,
-            "id": 67119128,
-            "id_str": "67119128",
-            "is_translation_enabled": false,
-            "is_translator": false,
-            "lang": "en",
-            "listed_count": 1070,
-            "location": "Worldwide",
-            "name": "Trump Hotels",
-            "notifications": false,
-            "profile_background_color": "ABB8C2",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-            "profile_background_tile": false,
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67119128/1485961950",
-            "profile_image_url": "http://pbs.twimg.com/profile_images/943138519467413505/vjLA-F3z_normal.jpg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/943138519467413505/vjLA-F3z_normal.jpg",
-            "profile_link_color": "737373",
-            "profile_sidebar_border_color": "000000",
-            "profile_sidebar_fill_color": "696969",
-            "profile_text_color": "ADADAD",
-            "profile_use_background_image": true,
-            "protected": false,
-            "screen_name": "TrumpHotels",
-            "statuses_count": 14682,
-            "time_zone": null,
-            "translator_type": "none",
-            "url": "https://t.co/XDI7d6aJMw",
-            "utc_offset": null,
-            "verified": true
-        }
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "RT @TrumpHotels: Shoutout to Tyler, known as \u201cThe Donut Boy\u201d for his commitment to thank Police Officers across America! This #NationalDonu\u2026",
-    "truncated": false,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
-        "location": "New York, NY",
-        "name": "The Trump Organization",
-        "notifications": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720293443260456960/1523911710",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875453116333871104/0WX0QPbl_normal.jpg",
-        "profile_link_color": "B6B6B4",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "protected": false,
-        "screen_name": "Trump",
-        "statuses_count": 597,
-        "time_zone": null,
-        "translator_type": "none",
-        "url": "https://t.co/L8emHxSDPh",
-        "utc_offset": null,
-        "verified": true
-    }
-}{
-    "contributors": null,
-    "coordinates": null,
-    "created_at": "Fri Jun 01 15:46:09 +0000 2018",
-    "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "urls": [],
-        "user_mentions": [
-            {
-                "id": 39344374,
-                "id_str": "39344374",
-                "indices": [
-                    3,
-                    18
-                ],
-                "name": "Donald Trump Jr.",
-                "screen_name": "DonaldJTrumpJr"
-            }
-        ]
-    },
-    "favorite_count": 0,
-    "favorited": false,
-    "geo": null,
-    "id": 1002577045187014656,
-    "id_str": "1002577045187014656",
-    "in_reply_to_screen_name": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "is_quote_status": false,
-    "lang": "en",
-    "place": null,
-    "retweet_count": 490,
-    "retweeted": false,
-    "retweeted_status": {
-        "contributors": null,
-        "coordinates": null,
-        "created_at": "Fri Jun 01 12:18:59 +0000 2018",
-        "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "urls": [
-                {
-                    "display_url": "twitter.com/i/web/status/1\u2026",
-                    "expanded_url": "https://twitter.com/i/web/status/1002524909170495490",
-                    "indices": [
-                        117,
-                        140
-                    ],
-                    "url": "https://t.co/YO4doef5SF"
-                }
-            ],
-            "user_mentions": []
-        },
-        "favorite_count": 2612,
-        "favorited": false,
-        "geo": null,
-        "id": 1002524909170495490,
-        "id_str": "1002524909170495490",
-        "in_reply_to_screen_name": null,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "is_quote_status": false,
-        "lang": "en",
-        "place": null,
-        "possibly_sensitive": false,
-        "retweet_count": 490,
-        "retweeted": false,
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "text": "Always great to be @trumpwashingtondc. So proud of our team there for all of their amazing work and the accolades t\u2026 https://t.co/YO4doef5SF",
-        "truncated": true,
-        "user": {
-            "contributors_enabled": false,
-            "created_at": "Mon May 11 21:18:33 +0000 2009",
-            "default_profile": false,
-            "default_profile_image": false,
-            "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
-            "entities": {
-                "description": {
-                    "urls": []
-                },
-                "url": {
-                    "urls": [
-                        {
-                            "display_url": "TrumpStore.com",
-                            "expanded_url": "http://TrumpStore.com",
-                            "indices": [
-                                0,
-                                23
-                            ],
-                            "url": "https://t.co/2qPo57KgoO"
-                        }
-                    ]
-                }
-            },
-            "favourites_count": 9505,
-            "follow_request_sent": false,
-            "followers_count": 3025377,
-            "following": false,
-            "friends_count": 1264,
-            "geo_enabled": false,
-            "has_extended_profile": false,
-            "id": 39344374,
-            "id_str": "39344374",
-            "is_translation_enabled": false,
-            "is_translator": false,
-            "lang": "en",
-            "listed_count": 9587,
-            "location": "",
-            "name": "Donald Trump Jr.",
-            "notifications": false,
-            "profile_background_color": "C0DEED",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-            "profile_background_tile": true,
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1471620140",
-            "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
-            "profile_link_color": "15317E",
-            "profile_sidebar_border_color": "C0DEED",
-            "profile_sidebar_fill_color": "DDEEF6",
-            "profile_text_color": "333333",
-            "profile_use_background_image": true,
-            "protected": false,
-            "screen_name": "DonaldJTrumpJr",
-            "statuses_count": 23546,
-            "time_zone": null,
-            "translator_type": "none",
-            "url": "https://t.co/2qPo57KgoO",
-            "utc_offset": null,
-            "verified": true
-        }
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "text": "RT @DonaldJTrumpJr: Always great to be @trumpwashingtondc. So proud of our team there for all of their amazing work and the accolades they\u2026",
-    "truncated": false,
-    "user": {
-        "contributors_enabled": false,
-        "created_at": "Wed Apr 13 16:51:54 +0000 2016",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "The official Twitter page of The @Trump Organization. The most globally recognized brand in luxury real estate, golf, hospitality, and entertainment \ud83c\udf0e",
-        "entities": {
-            "description": {
-                "urls": []
-            },
-            "url": {
-                "urls": [
-                    {
-                        "display_url": "Trump.com",
-                        "expanded_url": "http://Trump.com",
-                        "indices": [
-                            0,
-                            23
-                        ],
-                        "url": "https://t.co/L8emHxSDPh"
-                    }
-                ]
-            }
-        },
-        "favourites_count": 5185,
-        "follow_request_sent": false,
-        "followers_count": 330928,
-        "following": false,
-        "friends_count": 49,
-        "geo_enabled": true,
-        "has_extended_profile": false,
-        "id": 720293443260456960,
-        "id_str": "720293443260456960",
-        "is_translation_enabled": false,
-        "is_translator": false,
-        "lang": "en",
-        "listed_count": 1218,
+        "listed_count": 1219,
         "location": "New York, NY",
         "name": "The Trump Organization",
         "notifications": false,
