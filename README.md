@@ -1,4 +1,4 @@
-# Project1（project2： https://github.com/lihaooo233/mini-project-2）
+# Project1（project2： https://github.com/lihaooo233/mini-project-2  ）
 Hello everyone! 
 This is a project for EC601. Well, actually this is my first project I have made, and I believe the code and the effect of the program may be not as good as others. I did have a hard time because I have never had similar experiences... So, I will show you how to use it.
 
