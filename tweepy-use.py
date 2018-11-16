@@ -5,10 +5,12 @@ import  wget
 import os
 import  shutil
 import io
+import database_mysql
 from google.cloud import vision
 from google.cloud.vision import types
 from PIL import Image, ImageDraw, ImageFont
 from userkey import *
+
 
 
 def add_text(u,fn):
@@ -83,8 +85,10 @@ def API_verify():
 def Twitter_Photos(api):
 # input screen name and number
     name = input('please input user screen name:')
+    query=name   #for data record
     tn=input('please input how many tweets you want to scan?(20-50):')
     tn=int(tn)
+    tweet_number=tn
     if tn>50:
         print('the scan number:50(fixed)')
         tn=50
@@ -114,6 +118,7 @@ def Twitter_Photos(api):
                 url.append(sth['media_url'])
 
         num = len(url)
+        photo_number=num   #photo number
         for i in url:
             photos = wget.download(i)
             file = open('tweet.txt', 'w')
@@ -160,7 +165,7 @@ def Twitter_Photos(api):
 
                 x = int(x)
                 x = x + 1
-        return (num)
+        return (num,query,tweet_number,photo_number)
 
 
 
@@ -189,7 +194,7 @@ if os.path.exists('images') == 1:
     os.makedirs('images', mode=0o777)
 else:
     os.makedirs('images', mode=0o777)
-num=Twitter_Photos(api)
+num,query,tweet_number,photo_number=Twitter_Photos(api)
 try:
     for i in range(num):
         f = i + 1
@@ -197,7 +202,8 @@ try:
 except:
     exit('There may have a google credential problem.')
 
-try:
+#try:
+if(1):
     if os.path.exists('outcome.mp4') == 1:
         os.remove('outcome.mp4')
 
@@ -210,5 +216,13 @@ try:
         exit('there is no video made, maybe we can not found photo or something else problem happened')
     else:
         print('you can find the result from current folder \(^-^)/ ')
-except:
-    print('here is no video made, maybe we can not found photo or something else problem happened')
+        #add information to database
+        image_location='./images'
+        video_location='local'
+        database_mysql.mysql(query,tweet_number,photo_number,image_location,video_location)
+        #print(query,tweet_number,photo_number,image_location)
+
+
+
+#except:
+#    print('here is no video made, maybe we can not found photo or something else problem happened')
