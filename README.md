@@ -1,4 +1,4 @@
-# Project3 database
+# Project3 database（only for windows system now）
 This mini-project is a database api which is used by Twitter+FFMPEG+Google api (project1).
 The basic functions include:
 
@@ -20,6 +20,11 @@ database service: mongoDB and mysql
 The database api include database_mysql.py, mongodb_store.py and Password.py three python files. database_mysql.py includes all functions which are implemented by mysql database, mongodb_store.py includes all functions which are implemented by mongodb database, and Password.py is used to save username and password of mysql\mongodb.
 
 # beginning
+Firstly, if you want to use this api to store the data from Twitter+FFMPEG+Google api, you should open mongodb and mysql database server first or the program will be stuck until time out.
+
+Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to run tweepy-use.py (which is the main program of project1). If everything goes well, you could see the outcome as presented by the following picture.
+
+
 
 
 
