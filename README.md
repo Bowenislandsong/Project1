@@ -17,14 +17,21 @@ python libraries: MySQLdb, pymongo and all libraries of Twitter+FFMPEG+Google ap
 
 database service: mongoDB and mysql
 
+Guarantee Twiiter+FFMPEG+Google api could work:https://github.com/lihaooo233/Project1/tree/master
+
 The database api include database_mysql.py, mongodb_store.py and Password.py three python files. database_mysql.py includes all functions which are implemented by mysql database, mongodb_store.py includes all functions which are implemented by mongodb database, and Password.py is used to save username and password of mysql\mongodb.
 
 # beginning
-Firstly, if you want to use this api to store the data from Twitter+FFMPEG+Google api, you should open mongodb and mysql database server first or the program will be stuck until time out.
+Firstly, open Password.py and iput your mysql username and password to 'username' and 'password' of Password.py. And please create a username for mongoDB and input it in 'mongodb_name'.
+
+Secondly,if you want to use this api to store the data from Twitter+FFMPEG+Google api, you should open mongodb and mysql database server first or the program will be stuck until time out.
 
 Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to run tweepy-use.py (which is the main program of project1). If everything goes well, you could see the outcome as presented by the following picture.
 
 ![index](https://github.com/lihaooo233/Project1/blob/database/pictures/picture1.jpg)
+
+
+
 
 
 
