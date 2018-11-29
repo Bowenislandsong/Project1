@@ -23,7 +23,7 @@ The database api include database_mysql.py, mongodb_store.py and Password.py thr
 Firstly, if you want to use this api to store the data from Twitter+FFMPEG+Google api, you should open mongodb and mysql database server first or the program will be stuck until time out.
 
 Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to run tweepy-use.py (which is the main program of project1). If everything goes well, you could see the outcome as presented by the following picture.
-![draw](https://github.com/plantclassification/seedlings_classification/blob/master/arch.jpeg)
+![draw](https://github.com/lihaooo233/Project1/tree/database/pictures/picture1/jpg)
 
 
 
