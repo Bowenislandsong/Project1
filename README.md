@@ -8,6 +8,8 @@ The basic functions include:
 
 <3>showing the LOG of using Twitter+FFMPEG+Google api and the most popular descriptor.
 
+<4>All of functions are achieved by both  mongoDB and mysql database.
+
 # 
 
 
