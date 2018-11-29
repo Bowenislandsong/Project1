@@ -24,7 +24,7 @@ Firstly, if you want to use this api to store the data from Twitter+FFMPEG+Googl
 
 Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to run tweepy-use.py (which is the main program of project1). If everything goes well, you could see the outcome as presented by the following picture.
 
-![draw](https://github.com/lihaooo233/Project1/tree/database/pictures/picture1.jpeg)
+![index](https://github.com/lihaooo233/Project1/blob/database/pictures/picture1.jpg)
 
 
 
