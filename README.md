@@ -35,10 +35,11 @@ Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to r
 
 After beginning, you will see 3 options:
 
-Function 1: Input neither 1 nor 2, the program will continue to ask you if you want to try Twitter+FFMPEG+Google, please at least use this function at least one time or database will not be created. All images and the video will be stored in a directory 'imageX' X is how many times you use Twitter+FFMPEG+Google function.
+Function 1: Input neither 1 nor 2, the program will continue to ask you if you want to try Twitter+FFMPEG+Google, please at least use this function at least one time or database will not be created. All images and the video will be stored in a directory 'imageX' X is how many times you use Twitter+FFMPEG+Google function. After you first time using this function, a database named 'tweet' has been created by mongoDB and mysql. Besides, two tables(or collections) named 'LOG' and 'information' should have been created as well. Those are two tables(or collections) to record all informations about users and photos
 
+Function 2：Input 1, The program will show all LOG informations from table(or collection) LOG. You could find who used this api and the details.Besides, you could also find the most popular descriptor here. All information come from both mongoDB and mysql.
 
-
+![index](https://github.com/lihaooo233/Project1/blob/database/pictures/picture3.jpg)
 
 
 
