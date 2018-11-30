@@ -1,4 +1,12 @@
-import database_mysql
-import MySQLdb
+import mongodb_store
+import os
+import  pymongo
 
-database_mysql.mysql()
+find_word=''
+mongodb_store.mongodb_find('product')
+
+
+
+
+
+

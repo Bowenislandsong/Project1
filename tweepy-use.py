@@ -6,10 +6,13 @@ import os
 import  shutil
 import io
 import database_mysql
+import mongodb_store
 from google.cloud import vision
 from google.cloud.vision import types
 from PIL import Image, ImageDraw, ImageFont
 from userkey import *
+import warnings
+warnings.filterwarnings("ignore")
 
 
 
@@ -47,7 +50,7 @@ def add_text(u,fn):
 
 
 
-def google_vision(figure_number,num):
+def google_vision(figure_number,num,maxn):
     # verify the API
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "google.json"
     verify_api = vision.ImageAnnotatorClient()
@@ -70,6 +73,22 @@ def google_vision(figure_number,num):
     for k in text:
 
         u.append(k.description)
+    # store data to mysql
+    temp_l=','.join(u)
+    maxn=str(maxn)
+    photo_location='./images'+maxn
+    photo_name=fn+'.jpg'
+    labels=temp_l
+    print('working..')
+    database_mysql.data_save(photo_location,photo_name,labels)
+    mongodb_store.mongodb_data(photo_location,photo_name,labels)
+
+
+
+
+
+
+
 
     add_text(u, fn)
 
@@ -173,11 +192,50 @@ def Twitter_Photos(api):
         print('seems nobody has this name.... or something unknown happened')
         exit()
 
+# mian function
+try:
+    select = input('Do you want to try query function? (please input 1: some information of LOG  2: search specific session   Others: google-twitter function)')
+    if select == '1':
+        print('from mongo: \n')
+        print('LOG:\n')
+        mongodb_store.mongodb_show_log()
+        mongodb_store.mongodb_most()
+        print('\n')
+        print('from mysql: \n')
+        database_mysql.mysql_LOG()
+        database_mysql.mysql_most()
+
+
+    elif select == '2':
+        word = input('find the session which has the specific word (if input see_all , all information will show)')
+        if word=='see_all':
+            print('from mysql: \n')
+            database_mysql.mysql_all()
+            print('\n')
+            print('from mongodb:\n')
+            mongodb_store.mongodb_show_all()
+        else:
+            print('\n from mongo: \n')
+            mongodb_store.mongodb_find(word)
+            print('\n')
+            print('from mysql: \n')
+            database_mysql.mysql_find(word)
+
+    else:
+        print('Seems input is neither 1 nor 2')
+
+    select2 = input('do you want to use Twitter+FFMPEG+Google Vision function? (Y/N)')
+    if select2 != 'Y' and select2 != 'y':
+        print('ok')
+        exit()
+except:
+    #print('something wrong happend, maybe you should run Twitter+FFMPEG+Google Vision function once ')
+    exit('')
 
 
 
 
-    # mian function
+
 api=API_verify()
 
 #remake folders to delete photos downloaded before
@@ -195,15 +253,31 @@ if os.path.exists('images') == 1:
 else:
     os.makedirs('images', mode=0o777)
 num,query,tweet_number,photo_number=Twitter_Photos(api)
+
+
+maxn = 0
+for files in os.listdir():
+    if files[0:6] == 'images':
+        key_temp = files.split('images')
+        if key_temp[1] == '':
+            continue
+        temp_n = int(key_temp[1])
+        if maxn == 0 or temp_n > maxn:
+            maxn = temp_n
+maxn = maxn + 1
+
+
+
+
 try:
     for i in range(num):
         f = i + 1
-        google_vision(f, num)
+        google_vision(f, num,maxn)
 except:
     exit('There may have a google credential problem.')
 
-#try:
-if(1):
+try:
+
     if os.path.exists('outcome.mp4') == 1:
         os.remove('outcome.mp4')
 
@@ -215,14 +289,24 @@ if(1):
     if os.path.exists('outcome.mp4') == 0:
         exit('there is no video made, maybe we can not found photo or something else problem happened')
     else:
-        print('you can find the result from current folder \(^-^)/ ')
-        #add information to database
-        image_location='./images'
-        video_location='local'
-        database_mysql.mysql(query,tweet_number,photo_number,image_location,video_location)
-        #print(query,tweet_number,photo_number,image_location)
+
+        print('you can find the result from new image folder \(^-^)/ ')
+        #add information to database & change images name
+
+
+        # print(maxn)
+        #maxn = maxn + 1
+        maxn = str(maxn)
+        os.rename('images', 'images' + maxn)
+
+        shutil.move('outcome.mp4', "images"+ maxn)
+        image_location='./images'+maxn
+        video_location=image_location+'/outcome.mp4'
+        database_mysql.mysql(query,tweet_number,photo_number,image_location,video_location) #use database(mysql)
+        mongodb_store.mongodb_log(query, tweet_number, photo_number, image_location, video_location) #use database(mongodb)
 
 
 
-#except:
-#    print('here is no video made, maybe we can not found photo or something else problem happened')
+
+except:
+    print('here is no video made, maybe we can not found photo or something else problem happened')
