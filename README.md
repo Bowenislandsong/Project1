@@ -43,9 +43,13 @@ Function 2：Input 1, The program will show all LOG informations from table(or c
 
 
 Date: When this operation happend;
+
 Inquiry: Photos are downloaded from this Tweet username.
+
 Tweet number&photo number: how many tweets you wantted to find and how many photos are included.
+
 Image location& Video location: Where are photos and video stored.
+
 User/Username: Who did that, used mysql login name and mongoDB username (in Password.py)
 
 
