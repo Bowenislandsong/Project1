@@ -17,7 +17,7 @@ python libraries: MySQLdb, pymongo and all libraries of Twitter+FFMPEG+Google ap
 
 database service: mongoDB and mysql
 
-Guarantee Twiiter+FFMPEG+Google api could work:https://github.com/lihaooo233/Project1/tree/master
+Guarantee Twiiter+FFMPEG+Google api could work:https://github.com/lihaooo233/Project1/tree/master , especially add google certification (please rename it google.json) and tweet developer username and password.
 
 The database api include database_mysql.py, mongodb_store.py and Password.py three python files. database_mysql.py includes all functions which are implemented by mysql database, mongodb_store.py includes all functions which are implemented by mongodb database, and Password.py is used to save username and password of mysql\mongodb.
 
