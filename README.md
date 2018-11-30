@@ -22,7 +22,7 @@ Guarantee Twiiter+FFMPEG+Google api could work:https://github.com/lihaooo233/Pro
 The database api include database_mysql.py, mongodb_store.py and Password.py three python files. database_mysql.py includes all functions which are implemented by mysql database, mongodb_store.py includes all functions which are implemented by mongodb database, and Password.py is used to save username and password of mysql\mongodb.
 
 # beginning
-Firstly, open Password.py and iput your mysql username and password to 'username' and 'password' of Password.py. And please create a username for mongoDB and input it in 'mongodb_name'.
+Firstly, open Password.py and iput your mysql username and password to 'username' and 'password' of Password.py(This is important). And please create a username for mongoDB and input it in 'mongodb_name'.
 
 Secondly,if you want to use this api to store the data from Twitter+FFMPEG+Google api, you should open mongodb and mysql database server first or the program will be stuck until time out.
 
@@ -30,6 +30,12 @@ Then use cmd line 'python tweepy-use.py' in root directory of mini-project3 to r
 
 ![index](https://github.com/lihaooo233/Project1/blob/database/pictures/picture1.jpg)
 
+
+# Main functions
+
+After beginning, you will see 3 options:
+
+Function 1: Input neither 1 nor 2, the program will continue to ask you if you want to try Twitter+FFMPEG+Google, please at least use this function at least one time or database will not be created. All images and the video will be stored in a directory 'imageX' X is how many times you use Twitter+FFMPEG+Google function.
 
 
 
