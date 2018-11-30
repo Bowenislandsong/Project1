@@ -59,12 +59,12 @@ Function 3: Input 2, you can search all photos which have the specific word in t
 
 You could find some details about all photos including when and where they are stored (date,location) and all tags from google vision(labels).
 
-Or,input a key word, and you could find all photos which have this word in tag.
+Or,input a key word, and you could find all photos which have this word in their tags.
 
 ![index](https://github.com/lihaooo233/Project1/blob/database/pictures/picture5.jpg)
 
 
-
+# CONTACT
 
 
 So, please let me know if you face any problem when you use this program especially for TA and professor.
