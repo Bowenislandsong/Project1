@@ -3,7 +3,7 @@ import  pymongo
 import  time
 import Password
 # use mongod first
-def mongodb_log(query, tweet_number, photo_number, image_location, video_location):
+def mongodb_log(query, tweet_number, photo_number, image_location, video_location):    #store all operations
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
@@ -24,7 +24,7 @@ def mongodb_log(query, tweet_number, photo_number, image_location, video_locatio
 
     collection.insert_one(student)
 
-def mongodb_data(photo_location,photo_name, labels):
+def mongodb_data(photo_location,photo_name, labels):                      #store all information about each photo
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
@@ -41,25 +41,22 @@ def mongodb_data(photo_location,photo_name, labels):
     collection.insert_one(data)
 
 
-def mongodb_most():
+def mongodb_most():                #find the most popular descriptor
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
         print('did you open mongodb service?')
 
     dblist = myclient.list_database_names()
-    # dblist = myclient.database_names()
-    #for i in dblist:
-        #print(i)
+
     db = myclient.tweet
     collection = db.data
 
     temp_string = ''
     for x in collection.find({}, {"_id": 0, "labels": 1}):
-        #print(x['labels'])
-        # print(x['labels'])
+
         temp_string = temp_string + ','+x['labels']
-    #print(temp_string)
+
     fq = temp_string.split(',')
     #print(fq)
     # find the most popular descriptor
@@ -75,7 +72,7 @@ def mongodb_most():
             index1 = i
     print('the most popular descriptor is '+fq[index1])
 
-def mongodb_find(find_word):
+def mongodb_find(find_word):                    #find all photos which have specific word in their tag
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
@@ -99,7 +96,7 @@ def mongodb_find(find_word):
         print('seems no session include '+find_word)
 
 
-def mongodb_show_log():
+def mongodb_show_log():               #show LOG database
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
@@ -110,7 +107,7 @@ def mongodb_show_log():
     for x in collection.find():
         print(x)
 
-def mongodb_show_all():
+def mongodb_show_all():              #show all photo information
     try:
         myclient = pymongo.MongoClient('mongodb://localhost:27017/')
     except:
@@ -123,8 +120,6 @@ def mongodb_show_all():
 
 
 
-#mongodb_show_all()
-#mongodb_most()
 
 
 

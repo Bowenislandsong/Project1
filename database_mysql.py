@@ -20,7 +20,7 @@ def mysql(query,tweet_number,photo_number,image_location,video_location):
         cursor.execute('use TWEET')
         #print('ok')
         flag_tb=0
-        #cursor.execute("DROP TABLE IF EXISTS LOG")
+
         cursor.execute('show tables')
         rows = cursor.fetchall()
         for row in rows:
@@ -29,8 +29,8 @@ def mysql(query,tweet_number,photo_number,image_location,video_location):
             tbname = "%2s" % row
             if tbname=='log':
                 flag_tb=1
-        #print(flag_tb)
-        if flag_tb!=1:
+
+        if flag_tb!=1:                         #form of LOG
             sql = """create TABLE LOG (
                      DATE  CHAR(60) NOT NULL,
                      INQUIRY  CHAR(60),
@@ -40,7 +40,7 @@ def mysql(query,tweet_number,photo_number,image_location,video_location):
                      VIDEO_LOCATION CHAR(60),
                      USERNAME CHAR(60))"""
             cursor.execute(sql)
-            #print('A new table has been created')
+
 
     except:
         print('There are some problems when create the LOG table')
@@ -58,8 +58,8 @@ def mysql(query,tweet_number,photo_number,image_location,video_location):
 
 
 
-    #save the labels
-def data_save(photo_location,photo_name, labels):
+
+def data_save(photo_location,photo_name, labels):         #save the labels of photos
     try:
         #db = MySQLdb.connect("localhost", "root", "", "TESTDB", charset='utf8' )
         db = MySQLdb.connect("localhost", Password.username, Password.password, charset='utf8')
@@ -71,9 +71,9 @@ def data_save(photo_location,photo_name, labels):
 
     try:
         cursor.execute('use TWEET')
-        #print('ok')
+
         flag_tb=0
-        #cursor.execute("DROP TABLE IF EXISTS LOG")
+
         cursor.execute('show tables')
         rows = cursor.fetchall()
         for row in rows:
@@ -82,7 +82,7 @@ def data_save(photo_location,photo_name, labels):
             tbname = "%2s" % row
             if tbname=='information':
                 flag_tb=1
-        #print(flag_tb)
+
         a = time.asctime()
         if flag_tb!=1:
             sql = """create TABLE information (
@@ -103,7 +103,7 @@ def data_save(photo_location,photo_name, labels):
     db.commit()
     db.close()
 
-def mysql_most():
+def mysql_most():            #use labels to find the most popular descriptor
     try:
         db = MySQLdb.connect("localhost", Password.username, Password.password, charset='utf8')
         cursor = db.cursor()
@@ -135,11 +135,11 @@ def mysql_most():
     results = cursor.fetchall()
     for row in results:
         labels = row[3]
-        #print(labels)
+
         all_labels=all_labels+','+labels
-        #print(all_labels)
+
     fq = all_labels.split(',')
-    #print(fq)
+
     # find the most popular descriptor
     index1 = 0
     max = 0
@@ -148,7 +148,7 @@ def mysql_most():
         for j in range(i + 1, len(fq)):
             if fq[i] == fq[j]:
                 flag = flag + 1
-        #print(fq[i]+'***',flag)
+
         if flag > max:
             max = flag
             index1 = i
@@ -211,7 +211,7 @@ def mysql_find(find_word):
     db.close()
 
 
-def mysql_LOG():
+def mysql_LOG():      # show all information of each operation before
     try:
         db = MySQLdb.connect("localhost", Password.username, Password.password, charset='utf8')
         cursor = db.cursor()
@@ -260,7 +260,7 @@ def mysql_LOG():
 
     db.close()
 
-def mysql_all():
+def mysql_all():    #show all information of photos
     try:
         db = MySQLdb.connect("localhost", Password.username, Password.password, charset='utf8')
         cursor = db.cursor()
@@ -303,8 +303,3 @@ def mysql_all():
 
     db.close()
 
-#mysql('f',1,1,'f','f')
-#mysql_all()
-
-
-#mysql_most()
